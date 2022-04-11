@@ -1,3 +1,3 @@
 # My Python Modules to learn for beginner
 
-Materi Basic Python
+The comments inside the code are using Indonesian language, you might not understand
